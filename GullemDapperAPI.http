@@ -1,0 +1,6 @@
+@GullemDapperAPI_HostAddress = http://localhost:5241
+
+GET {{GullemDapperAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

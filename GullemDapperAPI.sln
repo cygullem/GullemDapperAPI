@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GullemDapperAPI", "GullemDapperAPI.csproj", "{A667B273-DFBC-47B3-8696-FE1EC35D431C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A667B273-DFBC-47B3-8696-FE1EC35D431C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A667B273-DFBC-47B3-8696-FE1EC35D431C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A667B273-DFBC-47B3-8696-FE1EC35D431C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A667B273-DFBC-47B3-8696-FE1EC35D431C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56AEF4CB-D5A9-4DB4-B6DF-8036A309097A}
+	EndGlobalSection
+EndGlobal
