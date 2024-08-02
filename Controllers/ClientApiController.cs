@@ -32,6 +32,21 @@ namespace GullemDapperAPI.Controllers
         }
 
 
+        [HttpGet("GetClient")]
+        public async Task<ActionResult<Client>> GetClient(int id)
+        {
+            const string query = "Select * from Client where Id = @id LIMIT 1";
+            var result = await _connection.QueryFirstAsync<Client>(query, new{id = @id});
+
+            if (result == null)
+            {
+                return BadRequest("ERROR");
+            }
+
+            return Ok(result);
+        }
+
+
         [HttpPost("SaveClient")]
         public async Task<IActionResult> SaveClientAsync(Client client)
         {
