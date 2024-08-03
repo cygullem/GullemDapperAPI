@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XeSAOxV7MzPI6ZTteRpMYQdpEEonFg8obEFXBV7nw5Q8nKHy3t1m5ysPg8lz6u0lV+EE8PtN6auzwXXyPR2v5Q==",
+  "dgSpecHash": "LkU7K5zFEMurZwPNrm9qc99GbWZ+BLalWITYEnBEfLK/O1Lwa2WzoMSdnc2LuSLalOi1eFl76dHnLk/tD6BzRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Huawei\\Desktop\\CyGullz\\CODES\\GullemDapperAPI\\GullemDapperAPI.csproj",
+  "projectFilePath": "C:\\Users\\Huawei\\Desktop\\CyGullz\\CODES\\FetchDapperAPI\\BackEnd\\GullemDapperAPI\\GullemDapperAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Huawei\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\Huawei\\.nuget\\packages\\microsoft.data.sqlite\\8.0.0\\microsoft.data.sqlite.8.0.0.nupkg.sha512",

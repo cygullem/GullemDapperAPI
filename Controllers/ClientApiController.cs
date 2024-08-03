@@ -56,6 +56,7 @@ namespace GullemDapperAPI.Controllers
             return Ok(result);
         }
 
+
         [HttpPut("UpdateClient")]
         public async Task<IActionResult> UpdateClientAsync(int Id, Client client)
         {

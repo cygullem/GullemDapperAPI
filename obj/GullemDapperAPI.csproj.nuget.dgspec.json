@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Huawei\\Desktop\\CyGullz\\CODES\\GullemDapperAPI\\GullemDapperAPI.csproj": {}
+    "C:\\Users\\Huawei\\Desktop\\CyGullz\\CODES\\FetchDapperAPI\\BackEnd\\GullemDapperAPI\\GullemDapperAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Huawei\\Desktop\\CyGullz\\CODES\\GullemDapperAPI\\GullemDapperAPI.csproj": {
+    "C:\\Users\\Huawei\\Desktop\\CyGullz\\CODES\\FetchDapperAPI\\BackEnd\\GullemDapperAPI\\GullemDapperAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Huawei\\Desktop\\CyGullz\\CODES\\GullemDapperAPI\\GullemDapperAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Huawei\\Desktop\\CyGullz\\CODES\\FetchDapperAPI\\BackEnd\\GullemDapperAPI\\GullemDapperAPI.csproj",
         "projectName": "GullemDapperAPI",
-        "projectPath": "C:\\Users\\Huawei\\Desktop\\CyGullz\\CODES\\GullemDapperAPI\\GullemDapperAPI.csproj",
+        "projectPath": "C:\\Users\\Huawei\\Desktop\\CyGullz\\CODES\\FetchDapperAPI\\BackEnd\\GullemDapperAPI\\GullemDapperAPI.csproj",
         "packagesPath": "C:\\Users\\Huawei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Huawei\\Desktop\\CyGullz\\CODES\\GullemDapperAPI\\obj\\",
+        "outputPath": "C:\\Users\\Huawei\\Desktop\\CyGullz\\CODES\\FetchDapperAPI\\BackEnd\\GullemDapperAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Huawei\\AppData\\Roaming\\NuGet\\NuGet.Config"
